@@ -1,3 +1,6 @@
+<h1 align="center">Hi there 👋, I'm Vansh Agrawal</h1>
+<h3 align="center">A passionate web developer and AI/ML enthusiast from Delhi, India</h3>
+
 <div align="center">
 
 # 💫 About Me:
