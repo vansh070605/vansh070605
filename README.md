@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Vansh Agrawal</h1>
 <h3 align="center">A passionate web developer and AI/ML enthusiast from Delhi, India</h3>
 </div>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on Machine Learning in Mental Health Analysis.<br>  
 👯 I’m looking to collaborate on healthcare-related ML projects, full-stack web apps, and game development.<br>  
 🤝 I’m looking for help with optimizing ML models for better accuracy and user experience in AI-based projects.<br>  
