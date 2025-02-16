@@ -1,8 +1,7 @@
+<div align="center">
 <h1 align="center">Hi there 👋, I'm Vansh Agrawal</h1>
 <h3 align="center">A passionate web developer and AI/ML enthusiast from Delhi, India</h3>
-
-<div align="center">
-
+</div>
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning in Mental Health Analysis.<br>  
 👯 I’m looking to collaborate on healthcare-related ML projects, full-stack web apps, and game development.<br>  
@@ -41,4 +40,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vansh070605&icon=1&color=0)](https://visitcount.itsvg.in)  
 
-</div>
+
