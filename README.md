@@ -5,21 +5,21 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh070605" alt="vansh070605" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning in Mental Health Analysis.**
+🔭 I’m currently working on **Machine Learning in Mental Health Analysis.**
 
-- 🌱 I’m currently learning **Advanced ML techniques**
+🌱 I’m currently learning **Advanced ML techniques**
 
-- 👯 I’m looking to collaborate on **Research Papers and Full Stack Web Apps**
+👯 I’m looking to collaborate on **Research Papers and Full Stack Web Apps**
 
-- 🤝 I’m looking for help with **Optimizing ML models for better accuracy**
+🤝 I’m looking for help with **Optimizing ML models for better accuracy**
 
-- 👨‍💻 All of my projects are available at [https://vansh070605.github.io](https://vansh070605.github.io)
+👨‍💻 All of my projects are available at [https://vansh070605.github.io](https://vansh070605.github.io)
 
-- 💬 Ask me about **Flask and Web Dev Related Queries**
+💬 Ask me about **Flask and Web Dev Related Queries**
 
-- 📫 How to reach me **vansh070605@gmail.com**
+📫 How to reach me **vansh070605@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CAU-ZLIXwr2hA7zkaOKQ_rYtV2twW0Zs/view?usp=sharing](https://drive.google.com/file/d/1CAU-ZLIXwr2hA7zkaOKQ_rYtV2twW0Zs/view?usp=sharing)
+📄 Know about my experiences [https://drive.google.com/file/d/1CAU-ZLIXwr2hA7zkaOKQ_rYtV2twW0Zs/view?usp=sharing](https://drive.google.com/file/d/1CAU-ZLIXwr2hA7zkaOKQ_rYtV2twW0Zs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
