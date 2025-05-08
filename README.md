@@ -19,7 +19,7 @@
 
 📫 How to reach me **vansh070605@gmail.com**
 
-📄 Know about my experiences [https://drive.google.com/file/d/1CAU-ZLIXwr2hA7zkaOKQ_rYtV2twW0Zs/view?usp=sharing](https://drive.google.com/file/d/1CAU-ZLIXwr2hA7zkaOKQ_rYtV2twW0Zs/view?usp=sharing)
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CAU-ZLIXwr2hA7zkaOKQ_rYtV2twW0Zs/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
