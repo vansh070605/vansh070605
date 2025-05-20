@@ -100,7 +100,7 @@ I once debugged a program at 3 AM with nothing but hope and print statements, an
 </p>
 
 <p align="center">
-  <a href="https://github.com/SoubhLance">
+  <a href="https://github.com/vansh070605">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vansh070605&theme=github_dark" alt="Vansh's GitHub Stats" />
   </a>
 </p>
