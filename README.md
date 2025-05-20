@@ -56,7 +56,7 @@ I’m deeply interested in:
 ### 📫 Reach Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/thevanshagrawal/">
+  <a href="https://www.linkedin.com/in/thevanshagrawal/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/thevanshagrawal/">
