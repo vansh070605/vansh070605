@@ -1,7 +1,6 @@
 <h1 align="center">Hey there, I'm Vansh Agrawal! </h1>
 <h3 align="center">Building. Learning. Evolving.</h3>
 
-
 ---
 
 <p align="center">
