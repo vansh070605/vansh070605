@@ -51,9 +51,6 @@ I’m deeply interested in:
 
 [![Vansh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vansh070605&theme=react-dark)](https://github.com/vansh070605)
 
-
-
----
 ---
 
 ### 📫 Reach Me
