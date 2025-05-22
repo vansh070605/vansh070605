@@ -7,6 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=2EB2EC&lines=Welcome+to+my+GitHub+profile!;I+am+a+AI/ML+developer.;Let's+collaborate+on+exciting+projects!" />
 </p>
 
+  <img src="https://komarev.com/ghpvc/?username=vansh070605&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+
 ---
 
 ### 🚀 Hi, I’m Vansh!
@@ -76,7 +79,6 @@ I’m deeply interested in:
   <p align="center">
   <img src="https://img.shields.io/github/followers/vansh070605?color=0D47A1&style=for-the-badge" alt="followers" />
   <img src="https://img.shields.io/github/stars/vansh070605?color=0D47A1&style=for-the-badge" alt="stars" />
-  <img src="https://komarev.com/ghpvc/?username=vansh070605&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 </p>
 
