@@ -28,7 +28,7 @@ I’m deeply interested in:
 - **Operating System Development**: Worked on memory management and multi-threading projects as part of OS development coursework.
 - **Artificial Intelligence & Machine Learning**: Building ML-based healthcare apps like Lung Cancer Detection, with Python, OpenCV, and Flask, integrating user data and prediction models.
 - **Photography and Videography**: Designing visually compelling content for portfolios and websites, with custom animations and effects using web tools and design frameworks.
-- **Full-Stack Projects & Web Dev**: Creating responsive, interactive websites and dashboards using HTML, CSS, JavaScript, Flask, and MySQL — from hospital systems to animated portfolios.
+- **Full-Stack Projects & Web Dev**: Creating responsive, interactive websites and dashboards using HTML, CSS, JavaScript, Flask, and MySQL, from hospital systems to animated portfolios.
   
 ---
 
