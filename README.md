@@ -37,7 +37,9 @@ I’m deeply interested in:
 
 <p align="center">
   <a href="https://skillicons.dev">
+    <p align = "center">
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql,vscode,anaconda,eclipse,mongodb,opencv,git,github,vercel,figma,ps,pr,ae,linux,heroku,ai,matlab,mysql,pytorch,react,sklearn,windows" />
+      </p>
   </a>
 </p>
 
