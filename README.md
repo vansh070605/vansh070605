@@ -5,9 +5,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2EB2EC&lines=Welcome+to+my+GitHub+profile!;I+am+a+AI/ML+developer.;Let's+collaborate+on+exciting+projects!" />
+    <img src="https://komarev.com/ghpvc/?username=vansh070605&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=vansh070605&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 
 ---
