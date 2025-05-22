@@ -16,9 +16,9 @@
 
 ---
 
-### 🚀 Hi, I’m Vansh!
+### 🚀 Hi, I’m Vansh Agrawal!
 
-I'm Vansh Agrawal, a second-year Computer Science Engineering student at SRM University (KTR), specializing in Artificial Intelligence and Machine Learning. I'm passionate about building innovative solutions, exploring emerging technologies, and contributing to impactful projects.
+A second-year Computer Science Engineering student at SRM University (KTR), specializing in Artificial Intelligence and Machine Learning. I'm passionate about building innovative solutions, exploring emerging technologies, and contributing to impactful projects.
 
 ---
 
