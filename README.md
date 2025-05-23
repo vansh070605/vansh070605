@@ -84,7 +84,6 @@ I’m deeply interested in:
   </a>
   <p align="center">
   <img src="https://img.shields.io/github/followers/vansh070605?color=0D47A1&style=for-the-badge" alt="followers" />
-  <img src="https://img.shields.io/github/stars/vansh070605?color=0D47A1&style=for-the-badge" alt="stars" />
 </p>
 </p>
 
