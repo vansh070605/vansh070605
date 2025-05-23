@@ -82,9 +82,6 @@ I’m deeply interested in:
   <a href="mailto:vansh070605@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <p align="center">
-  <img src="https://img.shields.io/github/followers/vansh070605?color=0D47A1&style=for-the-badge" alt="followers" />
-</p>
 </p>
 
 
