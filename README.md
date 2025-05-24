@@ -87,10 +87,6 @@ I’m deeply interested in:
 
 ---
 
-### ⚡ Fun Facts
-I once debugged a program at 3 AM with nothing but hope and print statements, and it worked.
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2EB2EC&lines=Thanks+for+viewing+my+profile!" />
