@@ -64,8 +64,9 @@ Actively Building ⚡
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh070605&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/api?username=vansh070605&theme=tokyo-night&area=true&hide_border=true" />
 </p>
+
 
 ---
 
