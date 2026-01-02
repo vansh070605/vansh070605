@@ -81,15 +81,6 @@ Actively Building ⚡
 
 ---
 
-## 🎓 CERTIFICATIONS & SIGNAL BOOST
-
-* 🏅 Image Processing Onramp – MATLAB Academy
-* 🏅 AWS AI/ML Learning Modules
-* 🏅 Hackathon Participant – Ultron 8.0
-* 🏅 Active Open-Source Contributor
-
----
-
 ## 🌐 NETWORK INTERFACES
 
 <p align="center">
