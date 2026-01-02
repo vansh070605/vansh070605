@@ -72,12 +72,12 @@ Actively Building ⚡
 
 ## 🧪 FEATURED SYSTEMS
 
-| ⚡ Project                    | 🧩 Description                            | 🛠 Stack              |
-| ---------------------------- | ----------------------------------------- | --------------------- |
-| **🩺 Lung Cancer Detection** | AI-powered medical intelligence engine    | Python, OpenCV, Flask |
-| **🌌 Animated Portfolio**    | Neon-styled interactive web interface     | HTML, CSS, JS         |
-| **🏥 Hospital OS**           | Digital hospital command system           | Flask, MySQL          |
-| **🤖 AI Chatbot**            | Context-aware conversational intelligence | Python, TensorFlow    |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🤖 **Career Path Explorer** | ML Career Recommender | Python · Scikit-learn · Flask |
+| 🫁 **Lung Cancer Predictor** | Cancer Risk Prediction | Flask · MySQL |
+| 🎧 **Voxera** | Real-Time Communication | WebRTC · Node.js · Socket.IO |
+| ✋ **Multi Gesture Detector** | Hand Gesture Recognition | Python · OpenCV · TensorFlow |
 
 ---
 
