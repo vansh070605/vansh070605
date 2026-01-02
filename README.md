@@ -92,7 +92,7 @@ Actively Building ⚡
   <a href="https://x.com/vansh070605">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://vansh070605.github.io/">
+  <a href="https://vansh-is-a-dev.netlify.app" />
     <img src="https://skillicons.dev/icons?i=globe" />
   </a>
   <a href="mailto:vansh070605@gmail.com">
