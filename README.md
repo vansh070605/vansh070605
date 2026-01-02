@@ -53,7 +53,7 @@ Actively Building ⚡
 ## ⚙️ CYBER STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,flask,mysql,sklearn,opencv,matlab,git,github,linux,vercel,heroku,vscode,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,flask,mysql,sklearn,opencv,matlab,git,github,linux,vercel,heroku,vscode,figma&perline=10" />
 </p>
 
 ---
