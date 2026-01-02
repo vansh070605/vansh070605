@@ -1,78 +1,109 @@
-<h1 align="center">Hey there 👋, I'm Vansh Agrawal</h1>
-<h3 align="center">Building • Learning • Evolving 🚀</h3>
+<!-- ===================== CYBERPUNK NEURAL BOOT ===================== -->
+
+<h1 align="center">
+  ⚡ V A N S H&nbsp;&nbsp;A G R A W A L ⚡
+</h1>
+
+<h3 align="center">
+  <span style="color:#00FFF7">AI Engineer</span> • 
+  <span style="color:#FF004F">Cyber Builder</span> • 
+  <span style="color:#7C00FF">Future Architect</span>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2EB2EC&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;AI+%26+ML+Developer;Healthcare+AI+%7C+Full-Stack+Dev;Let's+Collaborate+and+Build+Cool+Stuff!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=900&color=00FFF7&center=true&vCenter=true&width=900&lines=Booting+Neural+Interface...;Loading+AI+Modules...;Healthcare+Intelligence+Online;System+Ready.+Welcome+Vansh." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vansh070605&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/vansh070605?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/vansh070605?label=Stars&style=for-the-badge" />
-</p>
-
----
-
-## 🚀 About Me
-
-🎓 **3rd Year Computer Science Student (AI & ML)** at **SRM University, KTR**  
-🤖 Passionate about **AI-powered healthcare solutions** and **full-stack development**  
-🌱 Always learning, always building, always improving
-
-- 🔭 Currently working on **AI/ML healthcare projects**
-- 🌱 Exploring **Deep Learning, MLOps & System Design**
-- 💬 Ask me about **Python, Flask, ML models, OpenCV, Web Dev**
-- 🎨 Fun fact: I blend **tech + creativity** through photography & videography
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,flask,mysql,mongodb,pytorch,sklearn,opencv,matlab,git,github,linux,vercel,heroku,vscode,figma,ps,pr,ae&perline=9" />
+  <img src="https://komarev.com/ghpvc/?username=vansh070605&label=NEURAL%20SCANS&color=00fff7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/vansh070605?label=FOLLOWERS&style=for-the-badge&color=ff004f" />
+  <img src="https://img.shields.io/github/stars/vansh070605?label=STARS&style=for-the-badge&color=7c00ff" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 SYSTEM PROFILE (TERMINAL MODE)
+
+```bash
+> whoami
+Vansh Agrawal
+
+> role
+AI / ML Engineer | Full-Stack Developer
+
+> focus
+- Healthcare AI Systems
+- Intelligent Automation
+- Secure & Scalable Apps
+
+> status
+Actively Building ⚡
+````
+
+---
+
+## 🟩 MATRIX SIGNAL (VISUAL CORE)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vansh070605&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh070605&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh070605&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## ⭐ Featured Projects
+## ⚙️ CYBER STACK
 
-| 🚀 Project | 📌 Description | 🛠 Tech |
-|-----------|---------------|--------|
-| **🩺 Lung Cancer Detection** | AI-driven healthcare diagnostic system | Python, OpenCV, Flask |
-| **🎨 Animated Portfolio** | Interactive portfolio with smooth animations | HTML, CSS, JavaScript |
-| **🏥 Hospital Management System** | Full-stack system with database integration | Flask, MySQL |
-| **🤖 AI Chatbot** | Conversational AI with ML integration | Python, TensorFlow |
-
-➡️ *More projects available on my repositories!*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,flask,mysql,mongodb,pytorch,sklearn,opencv,matlab,git,github,linux,vercel,heroku,vscode,figma,ps,pr,ae&perline=8" />
+</p>
 
 ---
 
-## 🌐 Let’s Connect
+## 📡 NEURAL ANALYTICS
 
 <p align="center">
-  <a href="https://linkedin.com/in/thevanshagrawal" target="_blank">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vansh070605&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh070605&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh070605&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🧪 FEATURED SYSTEMS
+
+| ⚡ Project                    | 🧩 Description                            | 🛠 Stack              |
+| ---------------------------- | ----------------------------------------- | --------------------- |
+| **🩺 Lung Cancer Detection** | AI-powered medical intelligence engine    | Python, OpenCV, Flask |
+| **🌌 Animated Portfolio**    | Neon-styled interactive web interface     | HTML, CSS, JS         |
+| **🏥 Hospital OS**           | Digital hospital command system           | Flask, MySQL          |
+| **🤖 AI Chatbot**            | Context-aware conversational intelligence | Python, TensorFlow    |
+
+---
+
+## 🎓 CERTIFICATIONS & SIGNAL BOOST
+
+* 🏅 Image Processing Onramp – MATLAB Academy
+* 🏅 AWS AI/ML Learning Modules
+* 🏅 Hackathon Participant – Ultron 8.0
+* 🏅 Active Open-Source Contributor
+
+---
+
+## 🌐 NETWORK INTERFACES
+
+<p align="center">
+  <a href="https://linkedin.com/in/thevanshagrawal">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://instagram.com/thevanshagrawal" target="_blank">
+  <a href="https://instagram.com/thevanshagrawal">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://x.com/vansh070605" target="_blank">
+  <a href="https://x.com/vansh070605">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://vansh070605.github.io/" target="_blank">
+  <a href="https://vansh070605.github.io/">
     <img src="https://skillicons.dev/icons?i=actix" />
   </a>
   <a href="mailto:vansh070605@gmail.com">
@@ -82,18 +113,25 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 SYSTEM ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vansh070605&theme=darkhub&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vansh070605&theme=onestar&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
+## ⚠️ GLITCH MESSAGE
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=2EB2EC&center=true&vCenter=true&lines=Thanks+for+visiting!;Let's+build+the+future+together+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=FF004F&center=true&vCenter=true&lines=Reality+is+Under+Construction.;Code+is+Power.;See+You+in+the+Future." />
 </p>
 
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories!
+  <sub>
+    🧠 Neural Load: Optimal &nbsp;|&nbsp;
+    ⚡ Power Core: Stable &nbsp;|&nbsp;
+    🟢 Status: ONLINE
+  </sub>
 </p>
+```
