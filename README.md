@@ -1,8 +1,6 @@
 <!-- ===================== CYBERPUNK NEURAL BOOT ===================== -->
 
-<h1 align="center">
-  ⚡ V A N S H&nbsp;&nbsp;A G R A W A L ⚡
-</h1>
+<h1 align="center">⚡ V A N S H&nbsp;&nbsp;A G R A W A L ⚡</h1>
 
 <h3 align="center">
   <span style="color:#00FFF7">AI Engineer</span> • 
@@ -11,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=900&color=00FFF7&center=true&vCenter=true&width=900&lines=Booting+Neural+Interface...;Loading+AI+Modules...;Healthcare+Intelligence+Online;System+Ready.+Welcome+Vansh." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=900&color=00FFF7&center=true&vCenter=true&width=850&lines=Booting+Neural+Interface...;Loading+AI+Modules...;Healthcare+Intelligence+Online;System+Ready.+Welcome+Vansh." />
 </p>
 
 <p align="center">
@@ -45,7 +43,7 @@ Actively Building ⚡
 ## 🟩 MATRIX SIGNAL (VISUAL CORE)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -61,9 +59,10 @@ Actively Building ⚡
 ## 📡 NEURAL ANALYTICS
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vansh070605&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vansh070605&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh070605&theme=tokyonight&hide_border=true" />
 </p>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh070605&theme=tokyonight&hide_border=true" />
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh070605&theme=tokyo-night&area=true&hide_border=true" />
 </p>
@@ -72,12 +71,12 @@ Actively Building ⚡
 
 ## 🧪 FEATURED SYSTEMS
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🤖 **Career Path Explorer** | ML Career Recommender | Python · Scikit-learn · Flask |
-| 🫁 **Lung Cancer Predictor** | Cancer Risk Prediction | Flask · MySQL |
-| 🎧 **Voxera** | Real-Time Communication | WebRTC · Node.js · Socket.IO |
-| ✋ **Multi Gesture Detector** | Hand Gesture Recognition | Python · OpenCV · TensorFlow |
+| Project                  | Description              | Tech Stack                  |
+| ------------------------ | ------------------------ | --------------------------- |
+| 🤖 Career Path Explorer  | ML Career Recommender    | Python, Scikit-learn, Flask |
+| 🫁 Lung Cancer Predictor | Cancer Risk Prediction   | Flask, MySQL                |
+| 🎧 Voxera                | Real-Time Communication  | WebRTC, Node.js, Socket.IO  |
+| ✋ Multi Gesture Detector | Hand Gesture Recognition | Python, OpenCV, TensorFlow  |
 
 ---
 
@@ -94,7 +93,7 @@ Actively Building ⚡
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://vansh070605.github.io/">
-    <img src="https://skillicons.dev/icons?i=actix" />
+    <img src="https://skillicons.dev/icons?i=globe" />
   </a>
   <a href="mailto:vansh070605@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
