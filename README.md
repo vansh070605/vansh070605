@@ -70,14 +70,14 @@ Actively Building ⚡
 ---
 
 ## 🧪 FEATURED SYSTEMS
-
+<p align="center">
 | Project                  | Description              | Tech Stack                  |
 | ------------------------ | ------------------------ | --------------------------- |
 | 🤖 Career Path Explorer  | ML Career Recommender    | Python, Scikit-learn, Flask |
 | 🫁 Lung Cancer Predictor | Cancer Risk Prediction   | Flask, MySQL                |
 | 🎧 Voxera                | Real-Time Communication  | WebRTC, Node.js, Socket.IO  |
 | ✋ Multi Gesture Detector | Hand Gesture Recognition | Python, OpenCV, TensorFlow  |
-
+</p>
 ---
 
 ## 🌐 NETWORK INTERFACES
