@@ -51,11 +51,11 @@ ONLINE ⚡
 ╔══════════════════════════════════════╗
 ║   ███ NEURAL OPERATING SYSTEM ███    ║
 ║--------------------------------------║
-║  CPU        : Human + AI Hybrid       ║
-║  Frameworks : Flask | React | ML      ║
-║  Mode       : BUILD • LEARN • EVOLVE  ║
-║  Threat Lvl : LOW                     ║
-║  Uptime     : ∞                       ║
+║  CPU        : Human + AI Hybrid      ║
+║  Frameworks : Flask | React | ML     ║
+║  Mode       : BUILD • LEARN • EVOLVE ║
+║  Threat Lvl : LOW                    ║
+║  Uptime     : ∞                      ║
 ╚══════════════════════════════════════╝
 ```
 
