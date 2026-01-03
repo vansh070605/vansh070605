@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/github/stars/vansh070605?label=STARS&style=for-the-badge&color=7c00ff" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,100:7c00ff&height=80&section=header" />
+</p>
+
 ---
 
 ## 🧠 SYSTEM PROFILE (TERMINAL MODE)
@@ -29,26 +33,43 @@ Vansh Agrawal
 > role
 AI / ML Engineer | Full-Stack Developer
 
-> focus
+> specialization
 - Healthcare AI Systems
 - Intelligent Automation
-- Secure & Scalable Apps
+- Full-Stack Development
+- Secure & Scalable Architectures
 
-> status
-Actively Building ⚡
+> system_status
+ONLINE ⚡
 ````
+
+---
+
+## 🧬 NEURAL CORE (ASCII INTERFACE)
+
+```text
+╔══════════════════════════════════════╗
+║   ███ NEURAL OPERATING SYSTEM ███    ║
+║--------------------------------------║
+║  CPU        : Human + AI Hybrid       ║
+║  Frameworks : Flask | React | ML      ║
+║  Mode       : BUILD • LEARN • EVOLVE  ║
+║  Threat Lvl : LOW                     ║
+║  Uptime     : ∞                       ║
+╚══════════════════════════════════════╝
+```
 
 ---
 
 ## 🟩 MATRIX SIGNAL (VISUAL CORE)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## ⚙️ CYBER STACK
+## ⚙️ CYBER STACK (NEURAL MODULES)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,flask,mysql,sklearn,opencv,matlab,git,github,linux,vercel,heroku,vscode,figma&perline=10" />
@@ -56,31 +77,31 @@ Actively Building ⚡
 
 ---
 
-## 📡 NEURAL ANALYTICS
+## 📡 NEURAL ANALYTICS (SYSTEM TELEMETRY)
 
-<p align="center"> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vansh070605&show_icons=true&theme=tokyonight&hide_border=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh070605&theme=tokyonight&hide_border=true" /> 
-</p> 
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh070605&theme=tokyo-night&area=true&hide_border=true" /> 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vansh070605&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh070605&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh070605&theme=tokyo-night&area=true&hide_border=true" />
+</p>
 
 ---
 
-## 🧪 FEATURED SYSTEMS
+## 🧪 FEATURED SYSTEMS (DEPLOYED PROJECTS)
 
-| Project                  | Description              | Tech Stack                  |
-| ------------------------ | ------------------------ | --------------------------- |
-| 🤖 Career Path Explorer  | ML Career Recommender    | Python, Scikit-learn, Flask |
-| 🫁 Lung Cancer Predictor | Cancer Risk Prediction   | Flask, MySQL                |
-| 🎧 Voxera                | Real-Time Communication  | WebRTC, Node.js, Socket.IO  |
-| ✋ Multi Gesture Detector | Hand Gesture Recognition | Python, OpenCV, TensorFlow  |
+| ⚡ Project                | 🧠 Description                   | 🛠 Tech Stack               |
+| ------------------------ | -------------------------------- | --------------------------- |
+| 🤖 Career Path Explorer  | ML-based career recommender      | Python, Scikit-learn, Flask |
+| 🫁 Lung Cancer Predictor | Health risk prediction system    | Flask, MySQL                |
+| 🎧 Voxera                | Real-time voice communication    | WebRTC, Node.js, Socket.IO  |
+| ✋ Multi Gesture Detector | Vision-based gesture recognition | Python, OpenCV, TensorFlow  |
 
 ---
 
-## 🌐 NETWORK INTERFACES
+## 🌐 NETWORK INTERFACES (CONNECT)
 
 <p align="center">
   <a href="https://linkedin.com/in/thevanshagrawal">
@@ -92,7 +113,7 @@ Actively Building ⚡
   <a href="https://x.com/vansh070605">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://vansh-is-a-dev.netlify.app" />
+  <a href="https://vansh-is-a-dev.netlify.app">
     <img src="https://skillicons.dev/icons?i=globe" />
   </a>
   <a href="mailto:vansh070605@gmail.com">
@@ -102,10 +123,10 @@ Actively Building ⚡
 
 ---
 
-## ⚠️ GLITCH MESSAGE
+## ⚠️ GLITCH MESSAGE (SYSTEM BROADCAST)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=FF004F&center=true&vCenter=true&lines=Reality+is+Under+Construction.;Code+is+Power.;See+You+in+the+Future." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1200&color=FF004F&center=true&vCenter=true&lines=Reality+is+Under+Construction.;Code+is+the+New+Power.;See+You+in+the+Future." />
 </p>
 
 <p align="center">
@@ -114,4 +135,8 @@ Actively Building ⚡
     ⚡ Power Core: Stable &nbsp;|&nbsp;
     🟢 Status: ONLINE
   </sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c00ff,100:00fff7&height=80&section=footer" />
 </p>
