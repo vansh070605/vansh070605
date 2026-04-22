@@ -225,6 +225,14 @@ A **production FastAPI microservice** exposing trained ML models for wine qualit
 
 <br>
 
+<div align="center">
+  <a href="https://github.com/vansh070605/VinoMetrix">
+    <img src="https://img.shields.io/badge/View%20Repository-%230f0c29?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+<br>
+
 </td>
 
 </tr>
