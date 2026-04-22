@@ -341,27 +341,27 @@ Compact, explainable career recommendation engine mapping student profiles (skil
 
 <div align="center">
 
-<table>
-<tr>
-<td align="left">
+**🌊 &nbsp; ACTIVE RESEARCH &nbsp;·&nbsp; Flood Prediction Model — Bihar Basin**
 
-&nbsp;&nbsp;**🌊 &nbsp; ACTIVE RESEARCH &nbsp;·&nbsp; Flood Prediction Model — Bihar Basin**
+<br>
 
-&nbsp;
-
-&nbsp;&nbsp;Developing a hydrological ML framework for flood risk forecasting across the Bihar river basin network. The system integrates multi-source geospatial data (satellite imagery, DEM, river gauge telemetry) with temporal deep learning architectures to generate 72-hour probabilistic inundation maps — directly informing infrastructure resilience planning and early warning systems at the district level.
-
-&nbsp;
-
-&nbsp;&nbsp;`Stack` &nbsp; Python &nbsp;·&nbsp; PyTorch &nbsp;·&nbsp; LSTM / Transformer &nbsp;·&nbsp; GIS<br>
-&nbsp;&nbsp;`Data ` &nbsp;&nbsp; MODIS &nbsp;·&nbsp; Sentinel-1 SAR &nbsp;·&nbsp; IMD rainfall grids<br>
-&nbsp;&nbsp;`Goal ` &nbsp;&nbsp; Sub-district flood extent prediction with ≥ 85% IoU
-
-&nbsp;
-
-</td>
-</tr>
-</table>
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   Developing a hydrological ML framework for flood risk             │
+│   forecasting across the Bihar river basin network. The system      │
+│   integrates multi-source geospatial data (satellite imagery,       │
+│   DEM, river gauge telemetry) with temporal deep learning           │
+│   architectures to generate 72-hour probabilistic inundation        │
+│   maps — directly informing infrastructure resilience planning      │
+│   and early warning systems at the district level.                  │
+│                                                                     │
+│   Stack  :  Python · PyTorch · LSTM / Transformer · GIS            │
+│   Data   :  MODIS · Sentinel-1 SAR · IMD rainfall grids            │
+│   Goal   :  Sub-district flood extent prediction with ≥ 85% IoU    │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
