@@ -344,19 +344,19 @@ Compact, explainable career recommendation engine mapping student profiles (skil
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
-│   🌊  ACTIVE RESEARCH  ·  Flood Prediction Model — Bihar Basin      │
+│   🌊  ACTIVE RESEARCH  ·  Flood Prediction Model — Bihar Basin      |
 │                                                                     │
 │   Developing a hydrological ML framework for flood risk             │
-│   forecasting across the Bihar river basin network. The system      │
+│   forecasting across the Bihar river basin network. The system      |
 │   integrates multi-source geospatial data (satellite imagery,       │
 │   DEM, river gauge telemetry) with temporal deep learning           │
 │   architectures to generate 72-hour probabilistic inundation        │
 │   maps — directly informing infrastructure resilience planning      │
 │   and early warning systems at the district level.                  │
 │                                                                     │
-│   Stack  :  Python · PyTorch · LSTM / Transformer · GIS            │
-│   Data   :  MODIS · Sentinel-1 SAR · IMD rainfall grids            │
-│   Goal   :  Sub-district flood extent prediction with ≥ 85% IoU    │
+│   Stack  :  Python · PyTorch · LSTM / Transformer · GIS             │
+│   Data   :  MODIS · Sentinel-1 SAR · IMD rainfall grids             │
+│   Goal   :  Sub-district flood extent prediction with ≥ 85% IoU     │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
