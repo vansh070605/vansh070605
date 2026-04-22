@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Vansh%20Agrawal&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Computer%20Vision%20Engineer&descAlignY=62&descSize=17&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Vansh%20Agrawal&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Computer%20Vision%20Engineer&descAlignY=62&descSize=17&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:2d1b69,100:7c3aed&height=220&section=header&text=Vansh%20Agrawal&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Computer%20Vision%20Engineer&descAlignY=62&descSize=17&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:2d1b69,100:7c3aed&height=220&section=header&text=Vansh%20Agrawal&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Computer%20Vision%20Engineer&descAlignY=62&descSize=17&animation=fadeIn" width="100%">
 </picture>
 
 </div>
@@ -513,8 +513,8 @@ Building systems that matter — from tectonic faults to urban streets to flood 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,60:2d1b69,100:0d0221&height=120&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,60:2d1b69,100:0d0221&height=120&section=footer" width="100%">
 </picture>
 
 <br>
