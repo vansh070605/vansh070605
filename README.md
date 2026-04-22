@@ -344,7 +344,7 @@ Compact, explainable career recommendation engine mapping student profiles (skil
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
- │   🌊  ACTIVE RESEARCH  ·  Flood Prediction Model — Bihar Basin      |
+│   🌊  ACTIVE RESEARCH  ·  Flood Prediction Model — Bihar Basin     |
 │                                                                     │
 │   Developing a hydrological ML framework for flood risk             │
 │   forecasting across the Bihar river basin network. The system      |
