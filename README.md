@@ -340,27 +340,23 @@ AI-driven smart parking space counter that processes overhead camera feeds in re
 
 <div align="center">
 
-**🌊 &nbsp; ACTIVE RESEARCH &nbsp;·&nbsp; Flood Prediction Model — Bihar Basin**
+<table width="90%">
+<tr>
+<td align="left">
 
-<br>
+<h3 align="center">🌊 &nbsp; ACTIVE RESEARCH &nbsp;·&nbsp; Flood Prediction Model — Bihar Basin</h3>
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   Developing a hydrological ML framework for flood risk             │
-│   forecasting across the Bihar river basin network. The system      │
-│   integrates multi-source geospatial data (satellite imagery,       │
-│   DEM, river gauge telemetry) with temporal deep learning           │
-│   architectures to generate 72-hour probabilistic inundation        │
-│   maps — directly informing infrastructure resilience planning      │
-│   and early warning systems at the district level.                  │
-│                                                                     │
-│   Stack  :  Python · PyTorch · LSTM / Transformer · GIS            │
-│   Data   :  MODIS · Sentinel-1 SAR · IMD rainfall grids            │
-│   Goal   :  Sub-district flood extent prediction with ≥ 85% IoU    │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+Developing a hydrological ML framework for flood risk forecasting across the Bihar river basin network. The system integrates multi-source geospatial data (satellite imagery, DEM, river gauge telemetry) with temporal deep learning architectures to generate 72-hour probabilistic inundation maps — directly informing infrastructure resilience planning and early warning systems at the district level.
+
+<hr>
+
+- **🛠️ Stack:** Python · PyTorch · LSTM / Transformer · GIS
+- **📊 Data:** MODIS · Sentinel-1 SAR · IMD rainfall grids
+- **🎯 Goal:** Sub-district flood extent prediction with &ge; 85% IoU
+
+</td>
+</tr>
+</table>
 
 </div>
 
