@@ -1,9 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:2d1b69,100:7c3aed&height=220&section=header&text=Vansh%20Agrawal&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Computer%20Vision%20Engineer&descAlignY=62&descSize=17&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:2d1b69,100:7c3aed&height=220&section=header&text=Vansh%20Agrawal&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Computer%20Vision%20Engineer&descAlignY=62&descSize=17&animation=fadeIn" width="100%">
-</picture>
+<h1>👋 Vansh Agrawal</h1>
+<h3>Full-Stack Developer &bull; ML Researcher &bull; Computer Vision Engineer</h3>
+<p>Building @ the intersection of deep learning research and high-performance production systems.</p>
 
 </div>
 
@@ -62,7 +61,7 @@ Status     : Building @ the intersection of research & deployment
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vansh070605&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&ring_color=302b63&count_private=true" width="100%" alt="GitHub Stats">
+<img src="https://github-readme-stats.shion.dev/api?username=vansh070605&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&ring_color=302b63&count_private=true" width="100%" alt="GitHub Stats">
 
 <br><br>
 
@@ -172,7 +171,7 @@ An **edge-ready visual intelligence framework** that quantifies Urban Cleanlines
 <td width="50%" valign="top">
 
 <div align="center">
-<h3>🏭 &nbsp; Industrial AI — TMT Bar Inspection</h3>
+<h3>🏭 &nbsp; Tata Steel Intern Project — TMT Bar Inspection</h3>
 </div>
 
 <div align="center">
@@ -184,7 +183,7 @@ An **edge-ready visual intelligence framework** that quantifies Urban Cleanlines
 
 <br>
 
-An **enterprise-grade defect detection system** for structural TMT steel bar manufacturing. Provides automated surface anomaly classification with sub-millimetre precision, reducing manual inspection overhead in high-throughput industrial pipelines.
+An **enterprise-grade defect detection system** developed during my Tata Steel internship for structural TMT steel bar manufacturing. Provides automated surface anomaly classification with sub-millimetre precision, reducing manual inspection overhead in high-throughput industrial pipelines.
 
 <br>
 
@@ -201,32 +200,32 @@ An **enterprise-grade defect detection system** for structural TMT steel bar man
 <td width="50%" valign="top">
 
 <div align="center">
-<h3>🍷 &nbsp; VinoMetrix — ML Prediction API</h3>
+<h3>🌊 &nbsp; AERIS — Emergency Management Platform</h3>
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logo=xgboost&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white">
+  <img src="https://img.shields.io/badge/GeoJSON-EAA221?style=flat-square&logo=geojson&logoColor=white">
 </div>
 
 <br>
 
-A **production FastAPI microservice** exposing trained ML models for wine quality predictive analytics. Built with clean API design, schema validation, and async inference — serving as a canonical reference for deploying ML in enterprise REST architectures.
+An **AI-driven emergency management platform** that replaces reactive disaster response with proactive, ML-powered intelligence, built specifically for Bihar's annual flood crisis. Complements hydrological research with a live risk-tracking dashboard.
 
 <br>
 
 **Architecture Highlights**
-- Async FastAPI endpoints with full Pydantic v2 schema validation
-- Ensemble regression model with calibrated confidence intervals
-- Swagger UI auto-documentation with interactive prediction console
-- Containerised deployment with Docker & health-check endpoints
+- XGBoost-powered predictive models for inundation mapping
+- Interactive React-Leaflet GIS visualization of flood extents
+- Sub-district risk scoring and early warning alerts system
+- FastAPI backend serving real-time GeoJSON spatial queries
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/vansh070605/VinoMetrix">
+  <a href="https://github.com/vansh070605/AERIS">
     <img src="https://img.shields.io/badge/View%20Repository-%230f0c29?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
@@ -292,37 +291,37 @@ High-performance Retrieval-Augmented Generation platform. Upload PDFs and interr
 
 <td width="33%" valign="top" align="center">
 
-### 🛡️ &nbsp; GigShield
+### 🚗 &nbsp; WakeGuard
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"><img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
 
-Automated micro-insurance platform providing income security to gig-economy delivery workers via data-driven risk profiling and real-time payout automation.
+AI-powered driver monitoring system that detects drowsiness and yawning in real time using computer vision and facial landmark detection.
 
-<a href="https://github.com/vansh070605/GigShield"><img src="https://img.shields.io/badge/Repository-0f0c29?style=flat-square&logo=github&logoColor=white"></a>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### 🤚 &nbsp; Multi-Gesture Detector
-
-<img src="https://img.shields.io/badge/MediaPipe-FF7043?style=flat-square&logo=google&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-
-Real-time hand gesture recognition using MediaPipe landmarks + deep learning. Enables touchless HCI through accurate multi-gesture classification at high frame rates.
-
-<a href="https://github.com/vansh070605/MULTI-GESTURE-DETECTOR"><img src="https://img.shields.io/badge/Repository-0f0c29?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://github.com/vansh070605/WakeGuard"><img src="https://img.shields.io/badge/Repository-0f0c29?style=flat-square&logo=github&logoColor=white"></a>
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
-### 🎯 &nbsp; Career Path Explorer
+### 🍽️ &nbsp; MealSync
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Explainable%20AI-302b63?style=flat-square"><img src="https://img.shields.io/badge/NLP-7c3aed?style=flat-square">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logo=xgboost&logoColor=white">
 
-Compact, explainable career recommendation engine mapping student profiles (skills, education, interests) to ranked career suggestions with transparent reasoning.
+Full-stack mobile-first application designed for flatmates to fairly decide dinner using collaborative filtering and customized taste parameters.
 
-<a href="https://github.com/vansh070605/Career-Path-Explorer"><img src="https://img.shields.io/badge/Repository-0f0c29?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://github.com/vansh070605/MealSync"><img src="https://img.shields.io/badge/Repository-0f0c29?style=flat-square&logo=github&logoColor=white"></a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🅿️ &nbsp; ParkVision
+
+<img src="https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+
+AI-driven smart parking space counter that processes overhead camera feeds in real time to classify parking occupancy and display available spaces.
+
+<a href="https://github.com/vansh070605/ParkVision"><img src="https://img.shields.io/badge/Repository-0f0c29?style=flat-square&logo=github&logoColor=white"></a>
 
 </td>
 
@@ -449,7 +448,7 @@ Compact, explainable career recommendation engine mapping student profiles (skil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh070605&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8" width="48%" alt="Top Languages">
+<img src="https://github-readme-stats.shion.dev/api/top-langs?username=vansh070605&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8" width="48%" alt="Top Languages">
 
 </div>
 
@@ -512,10 +511,7 @@ Building systems that matter — from tectonic faults to urban streets to flood 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,60:2d1b69,100:0d0221&height=120&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,60:2d1b69,100:0d0221&height=120&section=footer" width="100%">
-</picture>
+
 
 <br>
 
