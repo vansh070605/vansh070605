@@ -26,8 +26,6 @@
 
 <br>
 
----
-
 <br>
 
 ## ◈ &nbsp; About
@@ -74,8 +72,6 @@ Status     : Building @ the intersection of research & deployment
 </table>
 
 <br>
-
----
 
 <br>
 
@@ -239,8 +235,6 @@ An **AI-driven emergency management platform** that replaces reactive disaster r
 
 <br>
 
----
-
 <br>
 
 ## ◈ &nbsp; Extended Engineering Portfolio
@@ -330,8 +324,6 @@ AI-driven smart parking space counter that processes overhead camera feeds in re
 
 <br>
 
----
-
 <br>
 
 ## ◈ &nbsp; Technical Arsenal
@@ -402,8 +394,6 @@ AI-driven smart parking space counter that processes overhead camera feeds in re
 
 <br>
 
----
-
 <br>
 
 ## ◈ &nbsp; GitHub Activity
@@ -423,8 +413,6 @@ AI-driven smart parking space counter that processes overhead camera feeds in re
 </div>
 
 <br>
-
----
 
 <br>
 
@@ -469,13 +457,9 @@ Building systems that matter — from tectonic faults to urban streets to flood 
 
 <br>
 
----
-
 <br>
 
 <div align="center">
-
-
 
 <br>
 
