@@ -28,7 +28,7 @@
 
 <br>
 
-## ◈ &nbsp; About
+### ◈ &nbsp; About
 
 <table>
 <tr>
@@ -75,7 +75,7 @@ Status     : Building @ the intersection of research & deployment
 
 <br>
 
-## ◈ &nbsp; Featured Research & Engineering
+### ◈ &nbsp; Featured Research & Engineering
 
 <br>
 
@@ -237,7 +237,7 @@ An **AI-driven emergency management platform** that replaces reactive disaster r
 
 <br>
 
-## ◈ &nbsp; Extended Engineering Portfolio
+### ◈ &nbsp; Extended Engineering Portfolio
 
 <br>
 
@@ -246,7 +246,7 @@ An **AI-driven emergency management platform** that replaces reactive disaster r
 
 <td width="33%" valign="top" align="center">
 
-### 🤖 &nbsp; PlacementOS
+#### 🤖 &nbsp; PlacementOS
 
 <img src="https://img.shields.io/badge/LangGraph-0f0c29?style=flat-square"><img src="https://img.shields.io/badge/Claude-7B2FBE?style=flat-square&logo=anthropic&logoColor=white"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
 
@@ -258,7 +258,7 @@ Multi-agent AI placement automation for B.Tech CSE students — autonomous job d
 
 <td width="33%" valign="top" align="center">
 
-### 📡 &nbsp; Voxera
+#### 📡 &nbsp; Voxera
 
 <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white">
 
@@ -270,7 +270,7 @@ Real-time peer-to-peer WebRTC application for low-latency voice, video, and scre
 
 <td width="33%" valign="top" align="center">
 
-### 📄 &nbsp; Nexus-RAG
+#### 📄 &nbsp; Nexus-RAG
 
 <img src="https://img.shields.io/badge/RAG-7c3aed?style=flat-square"><img src="https://img.shields.io/badge/LLM-302b63?style=flat-square"><img src="https://img.shields.io/badge/Semantic%20Search-0f0c29?style=flat-square">
 
@@ -285,7 +285,7 @@ High-performance Retrieval-Augmented Generation platform. Upload PDFs and interr
 
 <td width="33%" valign="top" align="center">
 
-### 🚗 &nbsp; WakeGuard
+#### 🚗 &nbsp; WakeGuard
 
 <img src="https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
 
@@ -297,7 +297,7 @@ AI-powered driver monitoring system that detects drowsiness and yawning in real 
 
 <td width="33%" valign="top" align="center">
 
-### 🍽️ &nbsp; MealSync
+#### 🍽️ &nbsp; MealSync
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logo=xgboost&logoColor=white">
 
@@ -309,7 +309,7 @@ Full-stack mobile-first application designed for flatmates to fairly decide dinn
 
 <td width="33%" valign="top" align="center">
 
-### 🅿️ &nbsp; ParkVision
+#### 🅿️ &nbsp; ParkVision
 
 <img src="https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
 
@@ -326,7 +326,7 @@ AI-driven smart parking space counter that processes overhead camera feeds in re
 
 <br>
 
-## ◈ &nbsp; Technical Arsenal
+### ◈ &nbsp; Technical Arsenal
 
 <br>
 
@@ -396,7 +396,7 @@ AI-driven smart parking space counter that processes overhead camera feeds in re
 
 <br>
 
-## ◈ &nbsp; GitHub Activity
+### ◈ &nbsp; GitHub Activity
 
 <br>
 
@@ -416,7 +416,7 @@ AI-driven smart parking space counter that processes overhead camera feeds in re
 
 <br>
 
-## ◈ &nbsp; Beyond the Screen
+### ◈ &nbsp; Beyond the Screen
 
 <br>
 
