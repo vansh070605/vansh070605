@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="900" height="230" role="img" aria-label="Animated papaya-orange F1 car racing along a track">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d0d0d"/>
+      <stop offset="1" stop-color="#1c1208"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff9a2e"/>
+      <stop offset="1" stop-color="#e86f00"/>
+    </linearGradient>
+    <pattern id="check" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#ffffff"/>
+      <rect x="8" y="8" width="8" height="8" fill="#ffffff"/>
+      <rect x="8" width="8" height="8" fill="#111111"/>
+      <rect y="8" width="8" height="8" fill="#111111"/>
+    </pattern>
+    <clipPath id="panel"><rect width="900" height="230" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#panel)">
+    <rect width="900" height="230" fill="url(#sky)"/>
+
+    <!-- distant glow -->
+    <ellipse cx="450" cy="150" rx="420" ry="60" fill="#ff8000" opacity="0.10"/>
+
+    <!-- start lights -->
+    <g>
+      <rect x="26" y="18" width="170" height="34" rx="17" fill="#161616" stroke="#2a2a2a"/>
+      <circle cx="48"  cy="35" r="9" fill="#2a2a2a"/>
+      <circle cx="73"  cy="35" r="9" fill="#2a2a2a"/>
+      <circle cx="98"  cy="35" r="9" fill="#2a2a2a"/>
+      <circle cx="123" cy="35" r="9" fill="#2a2a2a"/>
+      <circle cx="148" cy="35" r="9" fill="#2a2a2a"/>
+
+      <circle cx="48" cy="35" r="9" fill="#ff2a2a" opacity="0">
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.7;0.72;1" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="73" cy="35" r="9" fill="#ff2a2a" opacity="0">
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.18;0.7;0.72;1" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="98" cy="35" r="9" fill="#ff2a2a" opacity="0">
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.28;0.7;0.72;1" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="123" cy="35" r="9" fill="#ff2a2a" opacity="0">
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.38;0.7;0.72;1" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="148" cy="35" r="9" fill="#ff2a2a" opacity="0">
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.48;0.7;0.72;1" dur="6s" repeatCount="indefinite"/>
+      </circle>
+
+      <text x="212" y="41" font-family="'Courier New', monospace" font-size="15" font-weight="700" fill="#ff8000" opacity="0">
+        LIGHTS OUT AND AWAY WE GO
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.71;0.73;0.95;1" dur="6s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- chequered flag block -->
+    <rect x="800" y="18" width="80" height="48" fill="url(#check)" rx="4"/>
+
+    <!-- speed streaks -->
+    <g stroke="#ff8000" stroke-width="3" stroke-linecap="round">
+      <line x1="260" y1="92"  x2="330" y2="92"  opacity="0">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-260 0" dur="0.7s" begin="0s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.9;0" dur="0.7s" begin="0s" repeatCount="indefinite"/>
+      </line>
+      <line x1="250" y1="112" x2="350" y2="112" opacity="0">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-300 0" dur="0.6s" begin="0.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.8;0" dur="0.6s" begin="0.2s" repeatCount="indefinite"/>
+      </line>
+      <line x1="270" y1="130" x2="330" y2="130" opacity="0">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-240 0" dur="0.5s" begin="0.1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.8;0" dur="0.5s" begin="0.1s" repeatCount="indefinite"/>
+      </line>
+      <line x1="240" y1="76"  x2="290" y2="76"  opacity="0">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-220 0" dur="0.65s" begin="0.35s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0" dur="0.65s" begin="0.35s" repeatCount="indefinite"/>
+      </line>
+      <line x1="260" y1="148" x2="340" y2="148" opacity="0">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-260 0" dur="0.55s" begin="0.05s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0" dur="0.55s" begin="0.05s" repeatCount="indefinite"/>
+      </line>
+    </g>
+
+    <!-- road -->
+    <rect x="0" y="166" width="900" height="64" fill="#141414"/>
+    <rect x="0" y="166" width="900" height="3" fill="#ff8000"/>
+    <line x1="0" y1="200" x2="900" y2="200" stroke="#555" stroke-width="4" stroke-dasharray="40 30">
+      <animate attributeName="stroke-dashoffset" from="0" to="-70" dur="0.35s" repeatCount="indefinite"/>
+    </line>
+
+    <!-- the car (generic open-wheel racer) -->
+    <g transform="translate(300 94)">
+      <animateTransform attributeName="transform" type="translate" additive="replace"
+        values="300 94;300 92;300 94;300 93;300 94" dur="0.4s" repeatCount="indefinite"/>
+
+      <!-- shadow -->
+      <ellipse cx="140" cy="76" rx="150" ry="6" fill="#000" opacity="0.55"/>
+
+      <!-- rear wing -->
+      <rect x="-6" y="-16" width="54" height="8" rx="2" fill="#0d0d0d"/>
+      <rect x="-8" y="-22" width="6" height="30" rx="2" fill="#ff8000"/>
+      <rect x="22" y="-10" width="5" height="28" fill="#0d0d0d"/>
+
+      <!-- floor / sidepod -->
+      <path d="M 20 42 L 52 14 L 120 6 L 176 20 L 238 40 L 238 52 L 20 52 Z" fill="url(#body)"/>
+      <!-- engine cover fin -->
+      <path d="M 44 16 L 98 -14 L 124 4 L 60 14 Z" fill="#c95f00"/>
+      <!-- accent stripe -->
+      <path d="M 60 40 L 200 40 L 232 48 L 60 48 Z" fill="#0d0d0d" opacity="0.85"/>
+      <!-- cockpit -->
+      <path d="M 118 6 Q 128 -8 150 2 L 158 14 L 118 14 Z" fill="#0d0d0d"/>
+      <!-- helmet -->
+      <circle cx="138" cy="-4" r="10" fill="#f5f5f5"/>
+      <path d="M 138 -9 L 148 -6 L 148 0 L 138 1 Z" fill="#0d0d0d"/>
+      <rect x="128" y="-6" width="20" height="3" fill="#ff8000" opacity="0.9"/>
+      <!-- halo -->
+      <path d="M 120 8 Q 136 -22 164 12" fill="none" stroke="#0d0d0d" stroke-width="4" stroke-linecap="round"/>
+      <!-- nose -->
+      <path d="M 176 20 L 252 44 L 252 52 L 176 52 Z" fill="url(#body)"/>
+      <!-- front wing -->
+      <rect x="224" y="52" width="62" height="6" rx="2" fill="#0d0d0d"/>
+      <rect x="280" y="42" width="6" height="20" rx="2" fill="#ff8000"/>
+
+      <!-- rear wheel -->
+      <g>
+        <circle cx="52" cy="52" r="24" fill="#0b0b0b"/>
+        <circle cx="52" cy="52" r="24" fill="none" stroke="#ff8000" stroke-width="2" opacity="0.8"/>
+        <circle cx="52" cy="52" r="13" fill="#2d2d2d"/>
+        <g>
+          <line x1="52" y1="40" x2="52" y2="64" stroke="#ff8000" stroke-width="3"/>
+          <line x1="40" y1="52" x2="64" y2="52" stroke="#ff8000" stroke-width="3"/>
+          <line x1="43.5" y1="43.5" x2="60.5" y2="60.5" stroke="#8a8a8a" stroke-width="2"/>
+          <line x1="60.5" y1="43.5" x2="43.5" y2="60.5" stroke="#8a8a8a" stroke-width="2"/>
+          <animateTransform attributeName="transform" type="rotate" from="0 52 52" to="360 52 52" dur="0.25s" repeatCount="indefinite"/>
+        </g>
+        <circle cx="52" cy="52" r="3" fill="#0b0b0b"/>
+      </g>
+
+      <!-- front wheel -->
+      <g>
+        <circle cx="208" cy="55" r="21" fill="#0b0b0b"/>
+        <circle cx="208" cy="55" r="21" fill="none" stroke="#ff8000" stroke-width="2" opacity="0.8"/>
+        <circle cx="208" cy="55" r="11" fill="#2d2d2d"/>
+        <g>
+          <line x1="208" y1="45" x2="208" y2="65" stroke="#ff8000" stroke-width="3"/>
+          <line x1="198" y1="55" x2="218" y2="55" stroke="#ff8000" stroke-width="3"/>
+          <line x1="201" y1="48" x2="215" y2="62" stroke="#8a8a8a" stroke-width="2"/>
+          <line x1="215" y1="48" x2="201" y2="62" stroke="#8a8a8a" stroke-width="2"/>
+          <animateTransform attributeName="transform" type="rotate" from="0 208 55" to="360 208 55" dur="0.25s" repeatCount="indefinite"/>
+        </g>
+        <circle cx="208" cy="55" r="3" fill="#0b0b0b"/>
+      </g>
+    </g>
+  </g>
+</svg>

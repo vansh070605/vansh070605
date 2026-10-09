@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 16" width="900" height="16" role="presentation">
+  <defs>
+    <pattern id="c" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="16" height="16" fill="#0d0d0d"/>
+      <rect width="8" height="8" fill="#ff8000"/>
+      <rect x="8" y="8" width="8" height="8" fill="#ff8000"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="-16 0" dur="0.8s" repeatCount="indefinite"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="16" fill="url(#c)"/>
+</svg>
