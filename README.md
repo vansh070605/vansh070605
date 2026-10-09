@@ -1,474 +1,270 @@
-<div align="center">
+<!-- ============ HEADER ============ -->
+<h1 align="center">Vansh Agrawal</h1>
 
-<h1>👋 Vansh Agrawal</h1>
-<h3>Full-Stack Developer &bull; ML Researcher &bull; Computer Vision Engineer</h3>
-<p>Building @ the intersection of deep learning research and high-performance production systems.</p>
+<p align="center"><b>Computer Vision</b> &nbsp;·&nbsp; <b>Multi-Agent AI</b> &nbsp;·&nbsp; <b>Papaya Orange at Heart</b> 🧡</p>
 
-</div>
+<p align="center">
+  <img src="assets/f1-hero.svg" width="100%" alt="Animated papaya-orange F1 car racing past the start lights"/>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=FF8000&center=true&vCenter=true&width=760&lines=Lights+out+and+away+we+go+%F0%9F%8F%81;Teaching+machines+to+see+%F0%9F%91%81%EF%B8%8F;Computer+vision+is+my+lane;Ex-Tata+Steel+AI%2FML+Intern;Papaya+orange+runs+through+my+code+%F0%9F%A7%A1" alt="Typing animation"/>
+</p>
 
-<div align="center">
-  <a href="https://vansh-is-a-dev.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23302b63?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29" alt="Portfolio">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/thevanshagrawal">
-    <img src="https://img.shields.io/badge/LinkedIn-%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="https://github.com/vansh070605">
-    <img src="https://img.shields.io/badge/GitHub-%23161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=vansh070605&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" alt="Profile Views">
-</div>
+<p align="center">
+  <a href="https://vansh-is-a-dev.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF8000?style=for-the-badge&labelColor=0d0d0d" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/thevanshagrawal"><img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" alt="LinkedIn"/></a>
+  <a href="mailto:vansh070605@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=vansh070605&style=for-the-badge&color=FF8000&labelColor=0d0d0d&label=LAPS" alt="Profile views"/>
+</p>
 
-<br>
+<p align="center">
+  <img src="assets/checker-divider.svg" width="100%" alt=""/>
+</p>
 
-<br>
+<!-- ============ PIT WALL ============ -->
+## 🏁 &nbsp;The Driver Briefing
 
-### ◈ &nbsp; About
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-<br>
-
-I bridge the gap between **cutting-edge ML research** and **polished, production-grade full-stack systems** — turning complex model architectures into real-world intelligent applications. My work spans seismic hazard intelligence, urban computer vision, industrial inspection automation, and climate-resilience AI.
-
-<br>
-
-```yaml
-Name       : Vansh Agrawal
-Role       : Full-Stack Developer & ML Researcher
-Domain     : Computer Vision · Urban AI · Structural Informatics
-Location   : Chennai, India  (UTC +05:30)
-Status     : Building @ the intersection of research & deployment
+```python
+class Vansh:
+    team        = "Papaya Orange 🧡 (McLaren supporter, rain or shine)"
+    lane        = "Computer Vision 👁️"
+    day_job     = "B.Tech CSE (AI & ML) @ SRM IST · Class of 2027"
+    based_in    = "Chennai, India"
+    last_stint  = "AI/ML Intern @ Tata Steel (Jan–May 2026)"
+    on_track    = ["PlacementOS", "multi-agent systems", "RAG pipelines"]
+    sundays     = "Race day. Strategy calls. Strong opinions about tyre choice."
+    off_circuit = "🎵 singing"
+    open_to     = ["internships", "full-time roles", "research collabs"]
 ```
 
-<br>
+<br/>
 
-**Currently researching** a flood prediction model for the Bihar basin — applying hydrological ML to infrastructure resilience at regional scale.
+<!-- ============ TELEMETRY ============ -->
+## 📡 &nbsp;Telemetry
 
-<br>
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<br>
-
-<img src="https://github-readme-stats.shion.dev/api?username=vansh070605&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&ring_color=302b63&count_private=true" width="100%" alt="GitHub Stats">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh070605&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=302b63&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" width="100%" alt="Streak Stats">
-
-<br>
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="20%"><h2>95%</h2><sub><b>PRECISION</b><br/>rebar inspection</sub></td>
+    <td align="center" width="20%"><h2>−40%</h2><sub><b>LAP TIME</b><br/>manual inspection</sub></td>
+    <td align="center" width="20%"><h2>60 FPS</h2><sub><b>TOP SPEED</b><br/>in-browser face tracking</sub></td>
+    <td align="center" width="20%"><h2>9</h2><sub><b>CARS ON TRACK</b><br/>autonomous agents</sub></td>
+    <td align="center" width="20%"><h2>18</h2><sub><b>SENSORS</b><br/>river stations ingested</sub></td>
+  </tr>
 </table>
 
-<br>
+<br/>
 
-<br>
+<!-- ============ MY LANE ============ -->
+## 👁️ &nbsp;My Lane: Computer Vision
 
-### ◈ &nbsp; Featured Research & Engineering
+I like problems where a camera and a model replace a human squinting at something: steel bars on a factory floor, a driver's eyelids at 100 km/h, litter on a city street, an empty parking bay. The recipe is usually the same.
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/📷_CAPTURE-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=1f1f1f"/>
+  <img src="https://img.shields.io/badge/→-FF8000?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/🧹_PREPROCESS-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=1f1f1f"/>
+  <img src="https://img.shields.io/badge/→-FF8000?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/🧠_DETECT-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=1f1f1f"/>
+  <img src="https://img.shields.io/badge/→-FF8000?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/📐_MEASURE-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=1f1f1f"/>
+  <img src="https://img.shields.io/badge/→-FF8000?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/⚡_ACT-FF8000?style=for-the-badge&labelColor=0d0d0d"/>
+</p>
+
+<table>
+  <tr>
+    <td width="25%" valign="top" align="center"><h4>🏭 Tata Steel</h4><sub>OpenCV rib measurement &amp; ring-test analysis on live production lines</sub></td>
+    <td width="25%" valign="top" align="center"><h4>🚗 WakeGuard</h4><sub>478 landmarks, EAR / MAR / head pose, all client-side</sub></td>
+    <td width="25%" valign="top" align="center"><h4>🗑️ LitterVision</h4><sub>YOLOv8 + DCGAN augmentation for urban cleanliness scoring</sub></td>
+    <td width="25%" valign="top" align="center"><h4>🅿️ ParkVision</h4><sub>Overhead-camera parking occupancy in real time</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ============ QUALIFYING ============ -->
+## 🏎️ &nbsp;Pole Position: Featured Builds
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-<div align="center">
-<h3>🌍 &nbsp; QuakeIntel — SeismoSense v4.3.5</h3>
-</div>
+<img src="https://img.shields.io/badge/P1-FF8000?style=for-the-badge&labelColor=0d0d0d"/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logo=xgboost&logoColor=white">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white">
-  <img src="https://img.shields.io/badge/DBSCAN-302b63?style=flat-square&logoColor=white">
-</div>
+### 🤖 [PlacementOS](https://github.com/vansh070605/PlacementOS)
+**AI Career Command Center**
 
-<br>
+A local-first platform running **9 autonomous agents**: job discovery, eligibility checks, JD-aware resume tailoring and application tracking. A RAG pipeline reads the job description; a TensorFlow model predicts salary bands.
 
-A **global seismic hazard intelligence platform** delivering real-time tectonic monitoring, probabilistic hazard scoring, and volumetric 3D tectonic simulations. Combines gradient-boosted ensemble models with interactive WebGL globe rendering.
-
-<br>
-
-**Architecture Highlights**
-- XGBoost-powered magnitude & hazard classification engine
-- Three.js volumetric 3D mapping of global seismicity clusters
-- DBSCAN spatial clustering for tectonic fault delineation
-- Real-time USGS feed ingestion with sub-second latency
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/vansh070605/QuakeIntel">
-    <img src="https://img.shields.io/badge/View%20Repository-%230f0c29?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
-
-<br>
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1f1f1f?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF8000?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
-<div align="center">
-<h3>🗑️ &nbsp; LitterVision — Urban Cleanliness Index</h3>
-</div>
+<img src="https://img.shields.io/badge/P2-FF8000?style=for-the-badge&labelColor=0d0d0d"/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-FF6600?style=flat-square&logo=ultralytics&logoColor=white">
-  <img src="https://img.shields.io/badge/MobileNetV2-4285F4?style=flat-square&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/DCGAN-7c3aed?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-</div>
+### 🏭 Tata Steel · TMT Rebar Inspection
+**Production computer vision** *(internship)*
 
-<br>
+Automated QC for TMT rebar: rib parameters measured at **95% precision**, plus a spatial-analysis module for chemical ring tests that cut inspection time **40%** across **3 production lines**.
 
-An **edge-ready visual intelligence framework** that quantifies Urban Cleanliness Index (UCI) from municipal imagery. Combines real-time object detection with a generative augmentation pipeline for robust model training across diverse urban environments.
-
-<br>
-
-**Architecture Highlights**
-- YOLOv8 end-to-end waste detection & classification pipeline
-- DCGAN-based synthetic data augmentation for rare waste classes
-- MobileNetV2 backbone for on-device edge inference
-- UCI scoring engine with spatial heatmap visualization
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/vansh070605/LitterVision">
-    <img src="https://img.shields.io/badge/View%20Repository-%230f0c29?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
-
-<br>
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CV](https://img.shields.io/badge/Computer_Vision-FF8000?style=flat-square)
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/P3-FF8000?style=for-the-badge&labelColor=0d0d0d"/>
+
+### 🌊 [AERIS](https://github.com/vansh070605/AERIS)
+**Flood Risk Intelligence for Bihar**
+
+7-day flood forecasts from dual **XGBoost** models fed by 18 river stations, with a live React-Leaflet GIS dashboard and automated breach prediction for evacuation planning.
+
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Leaflet](https://img.shields.io/badge/React_Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![GeoJSON](https://img.shields.io/badge/GeoJSON-EAA221?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/P4-FF8000?style=for-the-badge&labelColor=0d0d0d"/>
+
+### 🚗 [WakeGuard](https://github.com/vansh070605/WakeGuard)
+**Driver Safety Vision System**
+
+**478 3D facial landmarks at 60 FPS** via MediaPipe. Microsleeps, yawns and distraction are classified from EAR, MAR and head pose, entirely in the browser with voice alerts. Zero server cost.
+
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF7043?style=flat-square&logo=google&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
 </tr>
 </table>
 
-<br>
+<br/>
+
+<!-- ============ FULL GRID ============ -->
+## 🚦 &nbsp;The Rest of the Grid
+
+| Pos | Project | What it does | Stack |
+|:---:|---|---|---|
+| **P5** | [🌍 QuakeIntel](https://github.com/vansh070605/QuakeIntel) | Global seismic hazard intelligence with a volumetric 3D tectonic globe | `XGBoost` `Three.js` `DBSCAN` |
+| **P6** | [🗑️ LitterVision](https://github.com/vansh070605/LitterVision) 👁️ | Urban Cleanliness Index from municipal imagery, edge-ready | `YOLOv8` `MobileNetV2` `DCGAN` |
+| **P7** | [📄 Nexus-RAG](https://github.com/vansh070605/Nexus-RAG) | Upload PDFs, then interrogate them with semantic search + LLM reasoning | `RAG` `LLM` |
+| **P8** | [📡 Voxera](https://github.com/vansh070605/Voxera) | Low-latency P2P voice, video and screen sharing | `WebRTC` `Node.js` `Socket.io` |
+| **P9** | [🅿️ ParkVision](https://github.com/vansh070605/ParkVision) 👁️ | Real-time parking occupancy from overhead camera feeds | `OpenCV` `Python` |
+| **P10** | [🍽️ MealSync](https://github.com/vansh070605/MealSync) | Fair dinner decisions for flatmates via collaborative filtering | `FastAPI` `XGBoost` |
+
+<sub>👁️ = computer vision project</sub>
+
+<br/>
+
+<!-- ============ PIT STOPS ============ -->
+## 🛞 &nbsp;Pit Stops
+
+```text
+ 2026  Jan–May   AI/ML Intern · Tata Steel, Chennai
+       │         └─ Computer vision QC for TMT rebar · 95% precision · −40% inspection time
+       │
+ 2024  Dec–Jan   Internship Trainee · Digital Info Solutions, Ghaziabad
+       │         └─ Flask + MySQL full-stack apps · 3+ client projects delivered
+       │
+ 2023 ─ 2027     B.Tech CSE (AI & ML) · SRM IST, Kattankulathur
+                 └─ Currently on the final stint 🏁
+```
+
+<br/>
+
+<!-- ============ GARAGE ============ -->
+## 🔧 &nbsp;The Garage
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,html,css&theme=dark" alt="Languages"/><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&theme=dark" alt="ML and CV"/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,nodejs,express,threejs,tailwind&theme=dark" alt="Web"/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,docker,git,vercel&theme=dark" alt="Infra"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLOv8-FF8000?style=flat-square&logo=ultralytics&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FF8000?style=flat-square&logo=google&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/EfficientNetV2-FF8000?style=flat-square&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/ResNet--50-FF8000?style=flat-square&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1f1f1f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ChromaDB-1f1f1f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SentenceTransformers-1f1f1f?style=flat-square"/>
+</p>
+
+<br/>
+
+<!-- ============ TYRE STRATEGY ============ -->
+## 🛞 &nbsp;Tyre Strategy
 
 <table>
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-<h3>🏭 &nbsp; Tata Steel Intern Project — TMT Bar Inspection</h3>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/ResNet--50-FF4B4B?style=flat-square&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Enterprise%20Grade-302b63?style=flat-square">
-</div>
-
-<br>
-
-An **enterprise-grade defect detection system** developed during my Tata Steel internship for structural TMT steel bar manufacturing. Provides automated surface anomaly classification with sub-millimetre precision, reducing manual inspection overhead in high-throughput industrial pipelines.
-
-<br>
-
-**Architecture Highlights**
-- ResNet-50 fine-tuned on domain-specific defect taxonomy
-- Grad-CAM explainability overlays for production QC review
-- Multi-class defect classification: cracks, voids, surface irregularities
-- Real-time conveyor belt integration via edge inference module
-
-<br>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-<h3>🌊 &nbsp; AERIS — Emergency Management Platform</h3>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logo=xgboost&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white">
-  <img src="https://img.shields.io/badge/GeoJSON-EAA221?style=flat-square&logo=geojson&logoColor=white">
-</div>
-
-<br>
-
-An **AI-driven emergency management platform** that replaces reactive disaster response with proactive, ML-powered intelligence, built specifically for Bihar's annual flood crisis. Complements hydrological research with a live risk-tracking dashboard.
-
-<br>
-
-**Architecture Highlights**
-- XGBoost-powered predictive models for inundation mapping
-- Interactive React-Leaflet GIS visualization of flood extents
-- Sub-district risk scoring and early warning alerts system
-- FastAPI backend serving real-time GeoJSON spatial queries
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/vansh070605/AERIS">
-    <img src="https://img.shields.io/badge/View%20Repository-%230f0c29?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
-
-<br>
-
-</td>
-
-</tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/SOFT-ff2a2a?style=for-the-badge&labelColor=0d0d0d"/><br/><sub><b>Fast, pushing hard right now</b></sub><br/><br/>
+      Computer vision · OpenCV · MediaPipe · YOLOv8<br/>Multi-agent orchestration · RAG pipelines
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/MEDIUM-ffd12a?style=for-the-badge&labelColor=0d0d0d"/><br/><sub><b>Reliable race pace</b></sub><br/><br/>
+      FastAPI · React · XGBoost · TensorFlow · PyTorch<br/>ChromaDB · LangChain / LangGraph
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/HARD-f5f5f5?style=for-the-badge&labelColor=0d0d0d"/><br/><sub><b>Built to last the distance</b></sub><br/><br/>
+      Python · SQL · JavaScript / TypeScript<br/>C/C++ · Java · Git · Docker
+    </td>
+  </tr>
 </table>
 
-<br>
+<br/>
 
-<br>
+<!-- ============ RACE STATS ============ -->
+## 📊 &nbsp;Race Stats
 
-### ◈ &nbsp; Extended Engineering Portfolio
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=vansh070605&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FF8000&icon_color=FF8000&text_color=e5e5e5&count_private=true" height="170" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=vansh070605&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FF8000&text_color=e5e5e5&langs_count=8" height="170" alt="Top languages"/>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh070605&hide_border=true&background=0d0d0d&stroke=2a2a2a&ring=FF8000&fire=FF8000&currStreakLabel=FF8000&currStreakNum=e5e5e5&sideNums=e5e5e5&sideLabels=a3a3a3&dates=a3a3a3" alt="Streak" width="62%"/>
+</p>
 
-<table>
-<tr>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh070605&bg_color=0d0d0d&color=FF8000&line=FF8000&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity graph"/>
+</p>
 
-<td width="33%" valign="top" align="center">
+<br/>
 
-#### 🤖 &nbsp; PlacementOS
+<!-- ============ TEAM RADIO ============ -->
+## 📻 &nbsp;Team Radio
 
-<img src="https://img.shields.io/badge/LangGraph-0f0c29?style=flat-square"><img src="https://img.shields.io/badge/Claude-7B2FBE?style=flat-square&logo=anthropic&logoColor=white"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+> **"Box, box."** Translation: I'm open to **internships, full-time roles and research collaborations** in computer vision, multi-agent systems and applied ML. Bring a hard problem and a camera.
 
-Multi-agent AI placement automation for B.Tech CSE students — autonomous job discovery, eligibility analysis, resume tailoring, and application tracking via a live dashboard.
+<p align="center">
+  <a href="https://www.linkedin.com/in/thevanshagrawal"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/></a>
+  <a href="mailto:vansh070605@gmail.com"><img src="https://img.shields.io/badge/SEND_AN_EMAIL-FF8000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/></a>
+  <a href="https://vansh-is-a-dev.netlify.app/"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-FF8000?style=for-the-badge&labelColor=0d0d0d"/></a>
+</p>
 
-<a href="https://github.com/vansh070605/PlacementOS"><img src="https://img.shields.io/badge/Repository-0f0c29?style=flat-square&logo=github&logoColor=white"></a>
+<p align="center"><i>🎵 Off the circuit I sing. Fast cars and good systems both come down to structure that lets something breathe.</i></p>
 
-</td>
+<p align="center">
+  <img src="assets/checker-divider.svg" width="100%" alt=""/>
+</p>
 
-<td width="33%" valign="top" align="center">
-
-#### 📡 &nbsp; Voxera
-
-<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white">
-
-Real-time peer-to-peer WebRTC application for low-latency voice, video, and screen sharing — built for production-grade communication reliability.
-
-<a href="https://github.com/vansh070605/Voxera"><img src="https://img.shields.io/badge/Repository-0f0c29?style=flat-square&logo=github&logoColor=white"></a>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-#### 📄 &nbsp; Nexus-RAG
-
-<img src="https://img.shields.io/badge/RAG-7c3aed?style=flat-square"><img src="https://img.shields.io/badge/LLM-302b63?style=flat-square"><img src="https://img.shields.io/badge/Semantic%20Search-0f0c29?style=flat-square">
-
-High-performance Retrieval-Augmented Generation platform. Upload PDFs and interrogate them via semantic search and LLM reasoning — minimal latency, maximum accuracy.
-
-<a href="https://github.com/vansh070605/Nexus-RAG"><img src="https://img.shields.io/badge/Repository-0f0c29?style=flat-square&logo=github&logoColor=white"></a>
-
-</td>
-
-</tr>
-<tr>
-
-<td width="33%" valign="top" align="center">
-
-#### 🚗 &nbsp; WakeGuard
-
-<img src="https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-
-AI-powered driver monitoring system that detects drowsiness and yawning in real time using computer vision and facial landmark detection.
-
-<a href="https://github.com/vansh070605/WakeGuard"><img src="https://img.shields.io/badge/Repository-0f0c29?style=flat-square&logo=github&logoColor=white"></a>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-#### 🍽️ &nbsp; MealSync
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logo=xgboost&logoColor=white">
-
-Full-stack mobile-first application designed for flatmates to fairly decide dinner using collaborative filtering and customized taste parameters.
-
-<a href="https://github.com/vansh070605/MealSync"><img src="https://img.shields.io/badge/Repository-0f0c29?style=flat-square&logo=github&logoColor=white"></a>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-#### 🅿️ &nbsp; ParkVision
-
-<img src="https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-
-AI-driven smart parking space counter that processes overhead camera feeds in real time to classify parking occupancy and display available spaces.
-
-<a href="https://github.com/vansh070605/ParkVision"><img src="https://img.shields.io/badge/Repository-0f0c29?style=flat-square&logo=github&logoColor=white"></a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<br>
-
-### ◈ &nbsp; Technical Arsenal
-
-<br>
-
-<div align="center">
-
-**Core Languages**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-
-</div>
-
-<br>
-
-<div align="center">
-
-**ML & Computer Vision**
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/YOLOv8-FF6600?style=for-the-badge&logo=ultralytics&logoColor=white">
-<img src="https://img.shields.io/badge/ResNet--50-FF4B4B?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/GANs-7c3aed?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/MediaPipe-FF7043?style=for-the-badge&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Full-Stack & APIs**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Data, Infrastructure & Tools**
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-
-</div>
-
-<br>
-
-<br>
-
-### ◈ &nbsp; GitHub Activity
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs?username=vansh070605&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8" width="48%" alt="Top Languages">
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh070605&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph">
-</div>
-
-<br>
-
-<br>
-
-### ◈ &nbsp; Beyond the Screen
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<br>
-
-**🎵 &nbsp; Music is the other language I speak.**
-
-Beyond systems and models, I maintain an active social presence dedicated to **singing** — a creative counterbalance to the precision of engineering. Music, like good architecture, is about finding the right structure for something that needs to breathe.
-
-<br>
-
-</td>
-<td align="center" width="50%">
-
-<br>
-
-**📍 Chennai, India** &nbsp;|&nbsp; **UTC +05:30**
-
-Building systems that matter — from tectonic faults to urban streets to flood plains. Every line of code is an attempt to make the physical world a little more legible to machines, and a little safer for people.
-
-<br>
-
-*Open to research collaborations, internships, and interesting problems.*
-
-<br>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<br>
-
-<div align="center">
-
-<br>
-
-*"The most elegant systems are those that hide their complexity behind a clean surface."*
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thevanshagrawal)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh-is-a-dev.netlify.app/)
-
-</div>
+<p align="center"><sub>🏁 Chequered flag. Thanks for stopping by the pit lane.</sub></p>
