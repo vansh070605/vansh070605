@@ -160,10 +160,10 @@ Automated QC for TMT rebar: rib parameters measured at **95% precision**, plus a
 | Pos | Project | What it does | Stack |
 |:---:|---|---|---|
 | **P5** | [🌍 QuakeIntel](https://github.com/vansh070605/QuakeIntel) | Global seismic hazard intelligence with a volumetric 3D tectonic globe | `XGBoost` `Three.js` `DBSCAN` |
-| **P6** | [🗑️ LitterVision](https://github.com/vansh070605/LitterVision) 👁️ | Urban Cleanliness Index from municipal imagery, edge-ready | `YOLOv8` `MobileNetV2` `DCGAN` |
+| **P6** | [🗑️ LitterVision](https://github.com/vansh070605/LitterVision) | Urban Cleanliness Index from municipal imagery, edge-ready | `YOLOv8` `MobileNetV2` `DCGAN` |
 | **P7** | [📄 Nexus-RAG](https://github.com/vansh070605/Nexus-RAG) | Upload PDFs, then interrogate them with semantic search + LLM reasoning | `RAG` `LLM` |
 | **P8** | [📡 Voxera](https://github.com/vansh070605/Voxera) | Low-latency P2P voice, video and screen sharing | `WebRTC` `Node.js` `Socket.io` |
-| **P9** | [🅿️ ParkVision](https://github.com/vansh070605/ParkVision) 👁️ | Real-time parking occupancy from overhead camera feeds | `OpenCV` `Python` |
+| **P9** | [🅿️ ParkVision](https://github.com/vansh070605/ParkVision) | Real-time parking occupancy from overhead camera feeds | `OpenCV` `Python` |
 | **P10** | [🍽️ MealSync](https://github.com/vansh070605/MealSync) | Fair dinner decisions for flatmates via collaborative filtering | `FastAPI` `XGBoost` |
 
 <sub>👁️ = computer vision project</sub>
