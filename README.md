@@ -4,7 +4,7 @@
 <p align="center"><b>Computer Vision</b> &nbsp;·&nbsp; <b>Multi-Agent AI</b> &nbsp;·&nbsp; <b>Papaya Orange at Heart</b> 🧡</p>
 
 <p align="center">
-  <img src="assets/f1-hero.svg" width="100%" alt="Animated papaya-orange F1 car racing past the start lights"/>
+  <img src="f1-hero.svg" width="100%" alt="Animated papaya-orange F1 car racing past the start lights"/>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/checker-divider.svg" width="100%" alt=""/>
+  <img src="checker-divider.svg" width="100%" alt=""/>
 </p>
 
 <!-- ============ PIT WALL ============ -->
@@ -244,10 +244,6 @@ Automated QC for TMT rebar: rib parameters measured at **95% precision**, plus a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh070605&hide_border=true&background=0d0d0d&stroke=2a2a2a&ring=FF8000&fire=FF8000&currStreakLabel=FF8000&currStreakNum=e5e5e5&sideNums=e5e5e5&sideLabels=a3a3a3&dates=a3a3a3" alt="Streak" width="62%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh070605&bg_color=0d0d0d&color=FF8000&line=FF8000&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity graph"/>
-</p>
-
 <br/>
 
 <!-- ============ TEAM RADIO ============ -->
@@ -264,7 +260,7 @@ Automated QC for TMT rebar: rib parameters measured at **95% precision**, plus a
 <p align="center"><i>🎵 Off the circuit I sing. Fast cars and good systems both come down to structure that lets something breathe.</i></p>
 
 <p align="center">
-  <img src="assets/checker-divider.svg" width="100%" alt=""/>
+  <img src="checker-divider.svg" width="100%" alt=""/>
 </p>
 
 <p align="center"><sub>🏁 Chequered flag. Thanks for stopping by the pit lane.</sub></p>
