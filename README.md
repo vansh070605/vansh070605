@@ -48,6 +48,7 @@ Also: [ParkVision](https://github.com/vansh070605/ParkVision) (parking occupancy
 </p>
 
 **Computer vision:** OpenCV, YOLOv8, MediaPipe, EfficientNetV2, ResNet-50
+
 **Agents and RAG:** LangChain, LangGraph, ChromaDB, Sentence Transformers, Hugging Face
 
 ---
